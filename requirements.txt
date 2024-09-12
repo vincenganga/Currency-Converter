@@ -1,0 +1,9 @@
+API_KEY - free.currencyconverterapi.com
+requests
+pytest
+
+
+A simple Currency Converter developed using Python with 180 currencies available.
+
+Topics
+python  requests freecurrencyconverterapi
